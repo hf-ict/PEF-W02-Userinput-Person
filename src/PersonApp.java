@@ -5,7 +5,7 @@ public class PersonApp {
         //create Scanner object
         Scanner scanner = new Scanner(System.in);
 
-        //Daten einlesen
+        //read data from console
         System.out.print("Name: ");
         String lastname = scanner.nextLine();
 
