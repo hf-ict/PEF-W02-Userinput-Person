@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PersonApp {
+public class Main {
     public static void main(String[] args) {
         //create Scanner object
         Scanner scanner = new Scanner(System.in);
