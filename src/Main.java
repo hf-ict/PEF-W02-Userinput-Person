@@ -40,6 +40,11 @@ public class Main {
 
         //print data
         p.print();
+
+        //create second Person, but use the constructor
+        Person person2 = new Person(firstname, lastname, street, zip, city);
+        person2.print();
+
     }
 
 }
